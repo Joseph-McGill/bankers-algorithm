@@ -7,6 +7,6 @@ and processes.
 The program is ran by [bankers-algorithm.c](../master/bankers-algorithm.c)
 with
 
-__gcc [bankers-algorithm.c](../master/bankers-algorithm.c)__
-__./a.out < sample_input.txt__
+    gcc [bankers-algorithm.c](../master/bankers-algorithm.c)
+    ./a.out < sample_input.txt
 
