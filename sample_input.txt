@@ -1,0 +1,304 @@
+ID      1
+MN      8       5       4       6
+SL      1
+RQ      4       3       0       2
+SL      2
+RQ      3       2       1       3
+SL      8
+RQ      1       0       0       1
+SL      1
+RL      4       0       0       1
+SL	2
+RQ      4       0       3       1
+SL      2
+RL      8       5       4       6
+END
+ID      3
+MN      6       4       5       7
+RQ      2       1       3       4
+SL      2
+RQ      3       2       1       1
+SL      2
+SL      1
+RQ      1       1       1       2
+SL      3
+RL      3       2       4       3
+SL      2
+RL      3       2       1       4
+SL      1
+END
+ID      8
+MN      8       5       2       9
+RQ      2       1       0       6
+SL      2
+RQ      5       1       1       2
+SL      1
+RQ      1       3       1       1
+SL      3
+RL      4       4       1       3
+SL      4
+RL      4       1       1       6
+SL      1
+END
+ID      15
+MN      6       5       5       3
+RQ      3       3       2       1
+SL      5
+RQ      3       2       3       2
+SL      5
+RL      6       5       5       3
+SL      1
+END
+ID      10
+MN      5       7       3       2
+RQ      3       2       1       1
+SL      3
+RQ      1       3       1       0
+SL	1
+RL      2       1       1       0
+SL      3
+RQ      2       3       2       1
+SL      5
+RL      5       7       3       2
+SL      5
+END
+ID      110
+MN      4       3       5       4
+RQ      2       2       3       2
+SL      1
+RQ      2       0       1       2
+SL      3
+SL      1
+RL      2       2       0       2
+SL      1
+RQ      2       3       1       2
+SL      4
+RL      4       3       5       4
+SL      2
+END
+ID      24
+MN      6       3       2       7
+SL      2
+RQ      1       1       1       0
+SL	1
+RQ      4       0       0       5
+SL      5
+RQ      1       2       0       0
+SL      1
+RQ      0       0       1       2
+SL      2
+RL      6       3       2       7
+END
+ID      16
+MN      6       2       3       6
+SL      2
+RQ      2       0       1       0
+SL	2
+RQ      0       0       0       4
+SL      3
+RQ      2       2       2       0
+SL      2
+RQ      0       0       0       2
+RL      3       1       1       3
+SL	2
+RL      1       1       1       1
+SL      3
+RL      2       0       1       2
+SL      3
+END
+ID      114
+MN      4       3       3       4
+RQ      1       2       1       0
+SL      2
+RQ      2       0       1       3
+SL      4
+RQ      1       0       0       0
+SL      3
+RQ      0       1       1       1
+SL      1
+RL      3       1       2       3
+SL      3
+RL      1       2       1       1
+SL      4
+END
+ID      210
+MN      5       4       3       3
+SL      4
+RQ      2       0       1       1
+SL      2
+RQ      1       3       2       1
+SL      5
+RQ      2       1       0       1
+SL      2
+RL      3       3       2       2
+SL      2
+RQ      0       3       0       1
+SL      1
+RL      1       2       0       1
+SL	2
+RL      1       2       1       1
+SL      5
+END
+ID	211
+MN      5       3       3       5
+SL      3
+RQ      2       1       1       0
+SL      5
+RQ      1       1       0       1
+SL      1
+RQ      2       1       0       3
+SL      3
+RQ      0       0       2       1
+SL      4
+RL      2       0       0       1
+SL      1
+RL      3       3       3       4
+END
+ID      33
+MN      4       3       3       5
+RQ      2       2       0       0
+SL      2
+RQ      1       0       2       3
+SL      3
+RQ      1       1       1       0
+SL      2
+RQ      0       0       0       2
+SL      5
+RL      1       1       3       2
+SL	1
+RL      1       0       0       3
+SL      3
+RL      2       2       0       0
+SL      5
+END
+ID      18
+MN      6       1       1       8
+RQ      2       0       1       0
+SL      20
+RQ      0       0       0       6
+SL      15
+RQ      4       0       0       2
+SL      40
+RQ      0       1       0       0
+SL      40
+RL      4       1       0       6
+SL	2
+RL      2       0       1       2
+SL      1
+END
+ID      45
+MN      4       3       3       3
+SL      2
+RQ      2       1       0       0
+SL      5
+RQ      0       2       1       1
+SL      3
+RQ      2       0       2       2
+SL      5
+RL      3       2       3       2
+SL      3
+RL      2       1       0       1
+SL      1
+END
+ID      19
+MN      3       4       3       2
+RQ      2       0       1       1
+SL      4
+RQ      1       0       1       1
+SL	2
+RQ      0       2       1       0
+SL      2
+RL      0       0       0       1
+SL      5
+RQ      0       2       0       1
+SL      2
+RL      1       4       2       1
+SL	2
+RL      2       0       1       1
+SL   	3
+END
+ID      150
+MN      4       2       2       4
+RQ      2       1       0       0
+SL      1
+RQ      0       1       1       2
+SL      5
+RQ      2       0       1       2
+SL      1
+RL      1       1       1       2
+SL      2
+RQ      1       0       0       2
+SL      2
+RL      2       0       1       4
+SL      1
+RL      2       1       0       0
+SL      5
+END
+ID      21
+MN      5       2       2       7
+SL      1
+RQ      1       0       1       0
+SL	3
+RQ      3       0       0       6
+SL      1
+RQ      1       2       0       0
+SL	2
+RQ      0       0       1       1
+SL      5
+RL      4       2       1       7
+SL	1
+RL      1       0       1       0
+SL      3
+END
+ID      164
+MN      6       3       2       6
+SL      2
+RQ      2       2       0       0
+SL	2
+RQ      0       0       0       4
+SL      4
+RQ      2       1       2       0
+SL      1
+RQ      2       0       0       2
+SL      5
+RL      3       1       1       3
+SL      3
+RL      1       0       1       3
+RL      2       2       0       0
+SL      1
+END
+ID      14
+MN      4       2       3       4
+RQ      1       0       1       0
+SL      2
+RQ      2       1       1       3
+SL      5
+RQ      1       0       0       0
+SL      1
+RQ      0       1       1       1
+SL      1
+RL      3       1       2       4
+SL      2
+RL      0       1       0       0
+SL      5
+RL      1       0       1       0
+SL      4
+END
+ID      310
+MN      5       5       4       4
+SL      3
+RQ      2       1       1       0
+SL      1
+RQ      1       3       2       1
+SL      3
+RQ      2       0       0       2
+SL      2
+RL      3       3       2       1
+SL      1
+RQ      0       4       0       2
+SL      1
+RL      0       4       0       4
+SL      1
+RL      2       1       1       0
+SL      2
+END
