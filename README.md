@@ -7,5 +7,5 @@ and processes.
 The program is ran with
 
     gcc bankers_algorithm.c
-    ./a.out < sample_input.txt
+    ./a.out < ../data/sample_input.txt
 
